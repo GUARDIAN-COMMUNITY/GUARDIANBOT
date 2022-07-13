@@ -55,83 +55,82 @@
 
 ## Variables
 
-- APP_ID = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝚅𝚊𝚕𝚞𝚎 𝙵𝚛𝚘𝚖 my.telegram.org
-- API_HASH = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝚅𝚊𝚕𝚞𝚎 𝙵𝚛𝚘𝚖 my.telegram.org
-- LEGEND_STRING = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝙱𝚢 𝚄𝚜𝚒𝚗𝚐 [Repl.it](#Repl) 𝚘𝚛 𝚏𝚛𝚘𝚖 [terminal](#Terminal).
-- BOT_TOKEN= 𝙼𝚊𝚔𝚎 𝙰 𝙱𝚘𝚝 𝙵𝚛𝚘𝚖 [@𝙱𝚘𝚝𝙵𝚊𝚝𝚑𝚎𝚛](https://t.me/BotFather) 𝚊𝚗𝚍 𝚙𝚊𝚜𝚝𝚎 𝚒𝚝'𝚜 𝚝𝚘𝚔𝚎𝚗.
-- DB_URI = 𝚄𝚜𝚎 𝚂𝚚𝚕 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎  𝙵𝚛𝚘𝚖 elephantsql.com
-- HANDLER = 𝚄𝚜𝚎 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙷𝚊𝚗𝚍𝚕𝚎𝚛 𝙰𝚗𝚢 𝚂𝚢𝚖𝚋𝚘𝚕
-- SPAM = 𝚃𝚘 𝚄𝚜𝚎 𝚂𝚙𝚊𝚖 𝙱𝚘𝚝 𝚃𝚘𝚔𝚎𝚗 𝙲𝚘𝚖𝚖𝚊𝚗𝚍
-- UPSTREAM_REPO = pro
-- TZ = Asia/Kolkata 
+- `APP_ID` = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝚅𝚊𝚕𝚞𝚎 𝙵𝚛𝚘𝚖 my.telegram.org
+- `API_HASH` = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝚅𝚊𝚕𝚞𝚎 𝙵𝚛𝚘𝚖 my.telegram.org
+- `LEGEND_STRING` = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝙱𝚢 𝚄𝚜𝚒𝚗𝚐 [Repl.it](#Repl) 𝚘𝚛 𝚏𝚛𝚘𝚖 [terminal](#Terminal).
+- `BOT_TOKEN`= 𝙼𝚊𝚔𝚎 𝙰 𝙱𝚘𝚝 𝙵𝚛𝚘𝚖 [@𝙱𝚘𝚝𝙵𝚊𝚝𝚑𝚎𝚛](https://t.me/BotFather) 𝚊𝚗𝚍 𝚙𝚊𝚜𝚝𝚎 𝚒𝚝'𝚜 𝚝𝚘𝚔𝚎𝚗.
+- `DB_URI` = 𝚄𝚜𝚎 𝚂𝚚𝚕 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎  𝙵𝚛𝚘𝚖 elephantsql.com
+- `HANDLER` = 𝚄𝚜𝚎 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙷𝚊𝚗𝚍𝚕𝚎𝚛 𝙰𝚗𝚢 𝚂𝚢𝚖𝚋𝚘𝚕
+- `SPAM` = 𝚃𝚘 𝚄𝚜𝚎 𝚂𝚙𝚊𝚖 𝙱𝚘𝚝 𝚃𝚘𝚔𝚎𝚗 𝙲𝚘𝚖𝚖𝚊𝚗𝚍
+- `UPSTREAM_REPO` = pro
+- `TZ` = Asia/Kolkata 
 
 ------
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
+[![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@ItzGrimXd/DINO-GUARDIAN?#main.py)
 
 - To Get Details Of StringSession Follow Step: 
-- Go To Telegram And Search @Legend_SessionGeneratorBot
+- Go To Telegram And Search @Guarndian_StringGeneratorBot
 - Click Start
-- Send Ur Phone Number To @Legend_SessionGeneratorBot
-- U Received Code From Telegram Like This=278291
+- Send Ur Phone Number To @Guarndian_StringGeneratorBot
+- U Received Code From Telegram Like This=27829
 - Copy Ur Code
-- Send The Code To @Legend_SessionGeneratorBot with Each Space
+- Send The Code To @Guarndian_StringGeneratorBot with Each Space
 - Check SAVED MESSAGE
 
 ### Terminal
-- Open the terminal.
-- Paste this code.
+Open the terminal.
+- Paste this code
 
-pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/GuardianBotXd/GuardianBot/master/GuardianString.py && python3 LegendString.py
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your GuardianBot Session Will be saved in your Telegram Saved Message.
 
 ## Self Host VPS
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/DheBIuT1Fmg?label=Tutorial+•+SelfHost+•&style=social)](https://youtu.be/DheBIuT1Fmg)
 
-- sudo apt update && sudo apt upgrade -y
+- `sudo apt update && sudo apt upgrade -y`
 
-- sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo
+- `sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo`
 
-- git clone https://github.com/ITS-LEGENDBOT/LEGENDBOT 
+- `git clone https://github.com/GuardianBotXd/GuardianBot`
 
-- cd LEGENDBOT
+- `cd GUARDIANBOT`
 
-- sudo apt install virtualenv
+- `sudo apt install virtualenv`
 
-- virtualenv venv
+- `virtualenv venv`
 
-- source venv/bin/activate
+- `source venv/bin/activate`
 
-- pip3 install -r requirements.txt
+- `pip3 install -r requirements.txt`
 
-- sudo apt install nano
+- `sudo apt install nano`
 
-- sudo apt install screen
+- `sudo apt install screen`
 
-- sudo apt install tmux
+- `sudo apt install tmux`
 
-- mv exampleconfig.py config.py
+- `mv exampleconfig.py config.py`
 
-- nano config.py (fill this) -> ctrl+x -> y -> enter
+- `nano config.py` (fill this) -> ctrl+x -> y -> enter
 
-- screen -S LEGENDBOT
+- `screen -S GUARDIANBOT`
 
-- source venv/bin/activate
+- `source venv/bin/activate`
 
-- tmux
+- `tmux`
 
-- source venv/bin/activate
+- `source venv/bin/activate`
 
-- pip3 install -r requirements.txt
+- `pip3 install -r requirements.txt`
 
-- python3 -m userbot
+- `python3 -m userbot`
  
 ------
 ## Disclaimer
@@ -139,7 +138,7 @@ pkg install python wget -y && pip install telethon && wget https://raw.githubuse
 >                     ❗YOU ARE FOREWARNED❗
 > We won't be responsible for any kind of ban due to this bot.
 
-> LegendBot was made for fun purpose and to make group management easier.
+> GuardianBot was made for fun purpose and to make group management easier.
 
 > It's your concern if you spam and gets your account banned.
 
@@ -156,4 +155,4 @@ pkg install python wget -y && pip install telethon && wget https://raw.githubuse
 </details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).
+> Made with Your Love by [@DINOGUARDIAN](https://t.me/DINOGUARDIAN).
