@@ -1,16 +1,16 @@
 {
-  "name": "Lêɠêɳ̃dẞο†",
-  "description": "LegendBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://telegra.ph/file/ac9bd7bcdac984dd407b2.jpg",
+  "name": "ᏀᑌᗩᖇᗞᏆᗩᑎᗷᝪᎢ",
+  "description": "GuardianBot is one of the Powerfull userbot on telegram based on telethon & python",
+  "logo": "https://telegra.ph/file/992bb3e9e8863f6492b94.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "guardianbot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT/",
+  "repository": "https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "LEGEND_STRING": {
+    "GUARDIAN_STRING": {
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
       "value": ""
     },
