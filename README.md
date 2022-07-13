@@ -1,37 +1,38 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![GUARDIANBOT](https://telegra.ph/file/992bb3e9e8863f6492b94.jpg)](https://github.com/GuardianBotXd/GuardianBot)
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 🚩𝗚𝗨𝗔𝗥𝗗𝗜𝗔𝗡𝗕𝗢𝗧 </b>
 </h1>
 
 <h6 align="center">
-  <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚕️ Presenting a GuardianBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ❤️</b>
 </h6>
 
 
-[![](https://img.shields.io/badge/LegendBot-v2.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
+[![](https://img.shields.io/badge/GuardianBot-v1.0-blue)](#)
+[![Stars](https://img.shields.io/github/stars/GUARDIAN-COMMUNITY/GUARDIANBOTstyle=flat-square&color=yellow)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/starazers)
+[![Forks](https://img.shields.io/github/fork/GUARDIAN-COMMUNITY/GUARDIANBOT?style=flat-square&color=orange)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/fork)
+[![Size](https://img.shields.io/github/repo-size/GUARDIAN-COMMUNITY/GUARDIANBOT?style=flat-square&color=green)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LEGEND-AI/LEGENDBOT)
-[![Contributors](https://img.shields.io/github/contributors/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT)
+[![Contributors](https://img.shields.io/github/contributors/GUARDIAN-COMMUNITY/GUARDIANBOT?style=flat-square&color=green)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/LEGEND-AI/LEGENDBOT/blob/main/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/blob/main/LICENSE)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/network/members"><img src="https://img.shields.io/github/forks/GUARDIAN-COMMUNITY/GUARDIANBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/stargazers"><img src="https://img.shields.io/github/stars/GUARDIAN-COMMUNITY/GUARDIANBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT"></a><p align="left"><a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIABOT?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_LegendBot)
+- [![Telegram Community](https://img.shields.io/badge/Telegram-Community-brightgreen)](https://t.me/GuardianCommunity/)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DinoGuardian_Support/)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/GuardianBot_AI)
 
 ------
 
@@ -40,11 +41,11 @@
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-<h3> Dєρℓογ το нєяοκυ </h3>
+<h3> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 </h3>
 
 - Fork This Main Repo.
 - Go to Setting Of Repo.
-- Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
+- Rename the Fork Repo Put Anything Example: LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
 - Now U Can Deploy This Bot.
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
@@ -54,15 +55,15 @@
 
 ## Variables
 
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `DB_URI` = Use Sql Database  From elephantsql.com
-- `HANDLER` = Use Your Command Handler Any Symbol
-- `EXTRA_REPO` = True / False
-- `UPSTREAM_REPO` = pro
-- `TZ` = Asia/Kolkata 
+- APP_ID = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝚅𝚊𝚕𝚞𝚎 𝙵𝚛𝚘𝚖 my.telegram.org
+- API_HASH = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝚅𝚊𝚕𝚞𝚎 𝙵𝚛𝚘𝚖 my.telegram.org
+- LEGEND_STRING = 𝙶𝚎𝚝 𝚃𝚑𝚒𝚜 𝙱𝚢 𝚄𝚜𝚒𝚗𝚐 [Repl.it](#Repl) 𝚘𝚛 𝚏𝚛𝚘𝚖 [terminal](#Terminal).
+- BOT_TOKEN= 𝙼𝚊𝚔𝚎 𝙰 𝙱𝚘𝚝 𝙵𝚛𝚘𝚖 [@𝙱𝚘𝚝𝙵𝚊𝚝𝚑𝚎𝚛](https://t.me/BotFather) 𝚊𝚗𝚍 𝚙𝚊𝚜𝚝𝚎 𝚒𝚝'𝚜 𝚝𝚘𝚔𝚎𝚗.
+- DB_URI = 𝚄𝚜𝚎 𝚂𝚚𝚕 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎  𝙵𝚛𝚘𝚖 elephantsql.com
+- HANDLER = 𝚄𝚜𝚎 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙷𝚊𝚗𝚍𝚕𝚎𝚛 𝙰𝚗𝚢 𝚂𝚢𝚖𝚋𝚘𝚕
+- SPAM = 𝚃𝚘 𝚄𝚜𝚎 𝚂𝚙𝚊𝚖 𝙱𝚘𝚝 𝚃𝚘𝚔𝚎𝚗 𝙲𝚘𝚖𝚖𝚊𝚗𝚍
+- UPSTREAM_REPO = pro
+- TZ = Asia/Kolkata 
 
 ------
 
@@ -83,55 +84,54 @@
 - Open the terminal.
 - Paste this code.
 
-`pip install telethon && wget https://raw.githubusercontent.com/ITS-LEGENDBOT/LEGENDBOT/master/LegendString.py && python3 LegendString.py`
+pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/GuardianBotXd/GuardianBot/master/GuardianString.py && python3 LegendString.py
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
 - Your LegendBot Session Will be saved in your Telegram Saved Message.
 
-
 ## Self Host VPS
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/DheBIuT1Fmg?label=Tutorial+•+SelfHost+•&style=social)](https://youtu.be/DheBIuT1Fmg)
 
-- `sudo apt update && sudo apt upgrade -y`
+- sudo apt update && sudo apt upgrade -y
 
-- `sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo`
+- sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo
 
-- `git clone https://github.com/ITS-LEGENDBOT/LEGENDBOT` 
+- git clone https://github.com/ITS-LEGENDBOT/LEGENDBOT 
 
-- `cd LEGENDBOT`
+- cd LEGENDBOT
 
-- `sudo apt install virtualenv`
+- sudo apt install virtualenv
 
-- `virtualenv venv`
+- virtualenv venv
 
-- `source venv/bin/activate`
+- source venv/bin/activate
 
-- `pip3 install -r requirements.txt`
+- pip3 install -r requirements.txt
 
-- `sudo apt install nano`
+- sudo apt install nano
 
-- `sudo apt install screen`
+- sudo apt install screen
 
-- `sudo apt install tmux`
+- sudo apt install tmux
 
-- `mv exampleconfig.py config.py`
+- mv exampleconfig.py config.py
 
-- `nano config.py` (fill this) -> ctrl+x -> y -> enter
+- nano config.py (fill this) -> ctrl+x -> y -> enter
 
-- `screen -S LEGENDBOT`
+- screen -S LEGENDBOT
 
-- `source venv/bin/activate`
+- source venv/bin/activate
 
-- `tmux`
+- tmux
 
-- `source venv/bin/activate`
+- source venv/bin/activate
 
-- `pip3 install -r requirements.txt`
+- pip3 install -r requirements.txt
 
-- `python3 -m userbot`
+- python3 -m userbot
  
 ------
 ## Disclaimer
@@ -156,4 +156,4 @@
 </details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).    
+> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).
